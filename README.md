@@ -1,2 +1,2 @@
-# College Analysis to determine top 10 best value on ROI
+# Analyzing colleges to determine best value based on highest graduate starting salary
 
