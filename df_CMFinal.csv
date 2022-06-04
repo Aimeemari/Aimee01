@@ -1,0 +1,1087 @@
+Starting Median Salary,Mid-Career Median Salary,School_Name,Private,Apps,Accept,Acp_Rate(%),Location,Rank,Tuition and fees
+"$72,200.00","$126,000.00",massachusetts institute of technology ,,,,0.8986,,,
+"$75,500.00","$123,000.00",california institute of technology ,,,,0.9211,,,
+"$71,800.00","$122,000.00",harvey mudd college,Yes,1377.0,572.0,0.42,,,
+"$62,400.00","$114,000.00",polytechnic university of new york brooklyn,,,,0.8087,,,
+"$62,200.00","$114,000.00",cooper union,,,,0.9774,,,
+"$61,000.00","$114,000.00",worcester polytechnic institute ,,,,0.5906,,,
+"$61,800.00","$111,000.00",carnegie mellon university ,,,,,,,
+"$61,100.00","$110,000.00",rensselaer polytechnic institute ,,,,,,,
+"$58,300.00","$106,000.00",georgia institute of technology,No,7837.0,4527.0,0.58,"Atlanta, GA",34.0,"$32,404 "
+"$58,100.00","$106,000.00",colorado school of mines,,,,0.7543,"Golden, CO",82.0,"$34,828 "
+"$60,600.00","$105,000.00",stevens institute of technology,Yes,1768.0,1249.0,0.71,"Hoboken, NJ",71.0,"$48,838 "
+"$56,000.00","$97,800.00",illinois institute of technology ,,,,,,,
+"$53,000.00","$96,700.00",wentworth institute of technology,Yes,1480.0,1257.0,0.85,,,
+"$53,500.00","$95,400.00",virginia polytechnic institute and state university ,,,,,,,
+"$55,800.00","$93,400.00",south dakota school of mines & technology,,,,,,,
+"$51,000.00","$93,400.00",new mexico institute of mining and technology ,,,,0.5227,,,
+"$48,900.00","$84,600.00",rochester institute of technology ,,,,,,,
+"$52,700.00","$80,700.00",embryriddle aeronautical university ,,,,,,,
+"$46,200.00","$80,000.00",tennessee technological university,,,,,"Cookeville, TN",220.0,"$24,800 "
+"$52,900.00","$96,100.00",university of illinois at urbanachampaign ,,,,,,,
+"$52,900.00","$96,100.00",university of illinois at urbanachampaign ,,,,,,,
+"$52,000.00","$95,000.00",university of maryland college park,,,,0.9733,,,
+"$52,000.00","$95,000.00",university of maryland college park,,,,0.5841,,,
+"$50,500.00","$95,000.00",university of california santa barbara ,,,,,,,
+"$50,500.00","$95,000.00",university of california santa barbara ,,,,,,,
+"$49,700.00","$93,900.00",university of texas   austin,,,,,,,
+"$49,700.00","$93,900.00",university of texas   austin,,,,0.543,,,
+"$44,500.00","$92,200.00",state university of new york  at albany,,,,,,,
+"$44,500.00","$92,200.00",state university of new york  at albany,,,,,,,
+"$47,100.00","$87,900.00",university of florida ,,,,0.482,,,
+"$47,100.00","$87,900.00",university of florida ,,,,,,,
+"$46,900.00","$87,800.00",louisiana state university ,,,,0.3966,,,
+"$46,900.00","$87,800.00",louisiana state university ,,,,,,,
+"$44,100.00","$86,000.00",university of georgia ,,,,0.5646,,,
+"$44,100.00","$86,000.00",university of georgia ,,,,,,,
+"$49,900.00","$85,700.00",pennsylvania state university ,,,,0.4704,,,
+"$49,900.00","$85,700.00",pennsylvania state university ,,,,0.4848,,,
+"$47,400.00","$84,100.00",arizona state university ,,,,,,,
+"$47,400.00","$84,100.00",arizona state university ,,,,0.6434,,,
+"$46,300.00","$84,000.00",indiana university  bloomington,,,,,,,
+"$46,300.00","$84,000.00",indiana university  bloomington,,,,0.6589,,,
+"$44,700.00","$83,900.00",university of iowa ,,,,,,,
+"$44,700.00","$83,900.00",university of iowa ,,,,,,,
+"$42,600.00","$83,600.00",randolphmacon college,Yes,1771.0,1325.0,0.75,,,
+"$42,600.00","$83,600.00",randolphmacon college,Yes,1771.0,1325.0,0.75,,,
+"$41,300.00","$81,400.00",university of alabama tuscaloosa,,,,,,,
+"$41,300.00","$81,400.00",university of alabama tuscaloosa,,,,,,,
+"$41,400.00","$79,700.00",university of mississippi,No,3844.0,3383.0,0.88,"University, MS",135.0,"$22,012 "
+"$41,400.00","$79,700.00",university of mississippi,No,3844.0,3383.0,0.88,"University, MS",135.0,"$22,012 "
+"$41,800.00","$78,300.00",university of new hampshire ,,,,0.3859,,,
+"$41,800.00","$78,300.00",university of new hampshire ,,,,,,,
+"$43,100.00","$78,100.00",west virginia university ,,,,,,,
+"$43,100.00","$78,100.00",west virginia university ,,,,0.8767,,,
+"$43,800.00","$74,600.00",university of tennessee,,,,0.5182,"Knoxville, TN",103.0,"$30,858 "
+"$43,800.00","$74,600.00",university of tennessee,,,,,"Knoxville, TN",103.0,"$30,858 "
+"$42,200.00","$73,400.00",ohio university,No,11023.0,8298.0,0.75,"Athens, OH",146.0,"$21,208 "
+"$42,200.00","$73,400.00",ohio university,No,11023.0,8298.0,0.75,"Athens, OH",146.0,"$21,208 "
+"$42,100.00","$73,000.00",florida state university ,,,,,,,
+"$42,100.00","$73,000.00",florida state university ,,,,0.7611,,,
+"$54,100.00","$110,000.00",bucknell university,Yes,6548.0,3813.0,0.58,,,
+"$52,800.00","$108,000.00",colgate university,Yes,4856.0,2492.0,0.51,,,
+"$54,500.00","$107,000.00",amherst college,Yes,4302.0,992.0,0.23,,,
+"$53,900.00","$107,000.00",lafayette college,Yes,4010.0,2402.0,0.6,,,
+"$48,100.00","$107,000.00",bowdoin college,Yes,3356.0,1019.0,0.3,,,
+"$50,200.00","$106,000.00",college of the holy cross,Yes,2994.0,1691.0,0.56,,,
+"$51,900.00","$105,000.00",occidental college,Yes,2324.0,1319.0,0.57,,,
+"$53,600.00","$104,000.00",washington and lee university,Yes,3315.0,1096.0,0.33,,,
+"$49,700.00","$104,000.00",swarthmore college,,,,0.8903,,,
+"$46,100.00","$104,000.00",davidson college,Yes,2373.0,956.0,0.4,,,
+"$47,500.00","$103,000.00",carleton college,Yes,2694.0,1579.0,0.59,,,
+"$51,700.00","$102,000.00",williams college,Yes,4186.0,1245.0,0.3,,,
+"$48,600.00","$101,000.00",pomona college,,,,,,,
+"$46,500.00","$97,900.00",wesleyan university ,,,,0.8131,,,
+"$47,300.00","$96,500.00",bates college,,,,,,,
+"$47,200.00","$95,800.00",union college,,,,0.8442,,,
+"$48,600.00","$94,600.00",university of richmond,Yes,5892.0,2718.0,0.46,,,
+"$46,000.00","$94,600.00",vassar college,Yes,3550.0,1877.0,0.53,,,
+"$47,700.00","$94,200.00",middlebury college,,,,,,,
+"$42,400.00","$94,100.00",mount holyoke college,Yes,1800.0,1314.0,0.73,,,
+"$49,100.00","$92,800.00",franklin and marshall college,,,,,,,
+"$41,400.00","$88,300.00",depauw university,Yes,1994.0,1656.0,0.83,,,
+"$45,300.00","$86,200.00",st olaf college,,,,,,,
+"$46,400.00","$85,800.00",colby college,Yes,2848.0,1319.0,0.46,,,
+"$44,700.00","$85,800.00",gettysburg college,Yes,3596.0,2466.0,0.69,,,
+"$45,500.00","$85,200.00",siena college,Yes,2961.0,1932.0,0.65,,,
+"$44,000.00","$83,900.00",smith college,Yes,2925.0,1598.0,0.55,,,
+"$49,200.00","$83,700.00",hamilton college,Yes,3140.0,1783.0,0.57,,,
+"$42,800.00","$83,500.00",wellesley college,Yes,2895.0,1249.0,0.43,,,
+"$42,000.00","$83,500.00",denison university,Yes,2762.0,2279.0,0.83,,,
+"$43,400.00","$81,600.00",oberlin college,Yes,4778.0,2767.0,0.58,,,
+"$46,600.00","$81,500.00",university of puget sound,Yes,4044.0,2826.0,0.7,,,
+"$38,500.00","$81,400.00",colorado college ,,,,,,,
+"$40,500.00","$81,100.00",reed college,Yes,1966.0,1436.0,0.73,,,
+"$44,500.00","$80,600.00",gustavus adolphus college,Yes,1709.0,1385.0,0.81,,,
+"$43,500.00","$80,100.00",whitman college,Yes,1861.0,998.0,0.54,,,
+"$42,100.00","$80,000.00",ursinus college,Yes,1399.0,1026.0,0.73,,,
+"$41,800.00","$78,900.00",juniata college,Yes,1005.0,859.0,0.85,,,
+"$39,200.00","$78,200.00",wittenberg university,Yes,1979.0,1739.0,0.88,,,
+"$42,600.00","$76,600.00",grinnell college,Yes,2039.0,1389.0,0.68,,,
+"$41,600.00","$74,600.00",skidmore college,Yes,4293.0,2728.0,0.64,,,
+"$42,500.00","$74,400.00",moravian college,Yes,1232.0,955.0,0.78,,,
+"$38,900.00","$72,600.00",lewis & clark college,,,,0.9516,,,
+"$42,000.00","$69,800.00",fort lewis college,No,3440.0,2823.0,0.82,,,
+"$41,500.00","$67,500.00",thomas aquinas college,,,,,,,
+"$39,500.00","$63,900.00",evergreen state college,No,1801.0,1101.0,0.61,,,
+"$58,000.00","$134,000.00",dartmouth college,Yes,8587.0,2273.0,0.26,"Hanover, NH",11.0,"$51,438 "
+"$66,500.00","$131,000.00",princeton university,Yes,13218.0,2042.0,0.15,"Princeton, NJ",1.0,"$45,320 "
+"$59,100.00","$126,000.00",yale university,Yes,10705.0,2453.0,0.23,"New Haven, CT",3.0,"$49,480 "
+"$63,400.00","$124,000.00",harvard university,Yes,13865.0,2165.0,0.16,"Cambridge, MA",2.0,"$47,074 "
+"$60,900.00","$120,000.00",university of pennsylvania,Yes,12394.0,5232.0,0.42,"Philadelphia, PA",8.0,"$51,464 "
+"$60,300.00","$110,000.00",cornell university,,,,,"Ithaca, NY",15.0,"$50,953 "
+"$56,200.00","$109,000.00",brown university,Yes,12586.0,3239.0,0.26,"Providence, RI",14.0,"$51,367 "
+"$59,400.00","$107,000.00",columbia university,Yes,6756.0,1930.0,0.29,"New York, NY",5.0,"$55,056 "
+"$59,900.00","$112,000.00",university of california berkeley,,,,,,,
+"$52,700.00","$103,000.00",university of virginia ,,,,,,,
+"$57,200.00","$101,000.00",cal poly san luis obispo,,,,,,,
+"$52,600.00","$101,000.00",university of california at los angeles ,,,,0.4986,,,
+"$51,100.00","$101,000.00",university of california san diego ,,,,,,,
+"$52,300.00","$99,600.00",university of california davis,,,,,,,
+"$47,100.00","$97,600.00",university of colorado  boulder ,,,,0.7747,,,
+"$48,300.00","$96,700.00",university of california irvine ,,,,0.4435,,,
+"$49,700.00","$96,100.00",texas a&m university,,,,,,,
+"$53,600.00","$95,900.00",binghamton university,,,,0.7721,,,
+"$57,100.00","$95,800.00",university of missouri  rolla ,,,,0.9024,,,
+"$53,500.00","$95,600.00",san jose state university ,,,,,,,
+"$52,700.00","$93,000.00",university of michigan,,,,,,,
+"$49,500.00","$93,000.00",stony brook university,,,,0.6667,,,
+"$50,300.00","$91,800.00",rutgers university,,,,,,,
+"$51,400.00","$90,500.00",purdue university,,,,0.911,,,
+"$48,000.00","$88,800.00",university of connecticut ,,,,0.6074,,,
+"$46,600.00","$88,200.00",university of massachusetts   amherst,,,,,,,
+"$47,400.00","$88,100.00",california state university  chico,,,,,,,
+"$48,900.00","$87,800.00",university of wisconsin   madison,,,,,,,
+"$45,700.00","$87,000.00",california state university fullerton ,,,,,,,
+"$47,800.00","$86,900.00",george mason university,No,5653.0,4326.0,0.77,"Fairfax, VA",143.0,"$32,582 "
+"$45,400.00","$86,600.00",university of massachusetts   lowell,,,,,,,
+"$47,300.00","$86,400.00",san francisco state university ,,,,,,,
+"$47,500.00","$86,100.00",university of arizona,,,,,"Tucson, AZ",124.0,"$30,025 "
+"$48,400.00","$86,000.00",clemson university,No,8065.0,5257.0,0.65,"Clemson, SC",66.0,"$32,796 "
+"$48,800.00","$85,300.00",university of washington ,,,,0.9055,,,
+"$46,300.00","$85,300.00",michigan state university ,,,,0.7217,,,
+"$43,900.00","$85,300.00",university of rhode island ,,,,,,,
+"$46,200.00","$85,200.00",san diego state university ,,,,,,,
+"$45,400.00","$84,700.00",auburn university,,,,0.7715,"Auburn, AL",99.0,"$28,840 "
+"$45,300.00","$84,700.00",washington state university ,,,,,,,
+"$45,100.00","$84,700.00",california state university long beach ,,,,,,,
+"$45,400.00","$84,600.00",iowa state university,No,8427.0,7424.0,0.88,"Ames, IA",111.0,"$21,483 "
+"$45,900.00","$84,500.00",university of delaware,Yes,14446.0,10516.0,0.73,"Newark, DE",79.0,"$31,420 "
+"$46,100.00","$84,400.00",university of colorado  denver,,,,,,,
+"$49,200.00","$84,300.00",california state university east bay ,,,,,,,
+"$47,300.00","$84,200.00",state university of new york  at farmingdale,,,,,,,
+"$46,200.00","$84,200.00",university of minnesota,,,,0.636,,,
+"$44,700.00","$84,100.00",university of california santa cruz ,,,,,,,
+"$44,900.00","$83,700.00",ohio state university ,,,,,,,
+"$47,200.00","$83,300.00",north carolina state university ,,,,0.5232,,,
+"$45,100.00","$83,300.00",oregon state university ,,,,0.7415,,,
+"$45,400.00","$83,200.00",university of utah,No,5095.0,4491.0,0.88,"Salt Lake City, UT",111.0,"$27,039 "
+"$46,500.00","$82,900.00",university of nevada reno ,,,,,,,
+"$44,700.00","$82,900.00",university of oklahoma,No,4743.0,3970.0,0.84,"Norman, OK",111.0,"$21,451 "
+"$44,100.00","$82,800.00",university of arkansas,,,,,"Fayetteville, AR",135.0,"$23,168 "
+"$44,800.00","$82,700.00",university of vermont ,,,,,,,
+"$43,100.00","$82,700.00",university of alabama at huntsville ,,,,,,,
+"$47,800.00","$82,400.00",california state university sacramento ,,,,,,,
+"$44,900.00","$82,000.00",university of idaho,,,,,"Moscow, ID",171.0,"$22,040 "
+"$47,500.00","$81,700.00",university of illinois at chicago,No,8384.0,5727.0,0.68,,,
+"$46,200.00","$81,700.00",state university of new york  at buffalo,,,,,,,
+"$42,400.00","$81,600.00",university of kansas,No,8579.0,5561.0,0.65,"Lawrence, KS",118.0,"$25,932 "
+"$41,600.00","$81,600.00",university of new mexico ,,,,,,,
+"$42,900.00","$81,500.00",university of north carolina at chapel hill ,,,,0.6878,,,
+"$46,800.00","$81,300.00",university of california riverside ,,,,,,,
+"$42,300.00","$81,300.00",state university of new york  at geneseo,,,,,,,
+"$41,700.00","$81,000.00",university of missouri  columbia,,,,,,,
+"$45,700.00","$80,900.00",university of nebraska,,,,,,,
+"$45,400.00","$80,800.00",university of texas at arlington ,,,,,,,
+"$43,600.00","$80,800.00",northern illinois university ,,,,,,,
+"$42,800.00","$80,700.00",oklahoma state university,No,4522.0,3913.0,0.87,"Stillwater, OK",152.0,"$20,978 "
+"$44,000.00","$80,600.00",university of north dakota,No,2777.0,2249.0,0.81,"Grand Forks, ND",202.0,"$18,899 "
+"$45,500.00","$80,400.00",california state university northridge ,,,,,,,
+"$46,000.00","$79,900.00",university of houston ,,,,0.811,,,
+"$44,300.00","$79,500.00",new mexico state university,,,,,"Las Cruces, NM",220.0,"$21,234 "
+"$46,500.00","$79,400.00",lamar university,No,2336.0,1725.0,0.74,,,
+"$44,500.00","$79,300.00",mississippi state university ,,,,,,,
+"$44,800.00","$79,000.00",colorado state university ,,,,,,,
+"$43,300.00","$79,000.00",kansas state university ,,,,,,,
+"$44,500.00","$78,700.00",university of wyoming ,,,,,,,
+"$43,800.00","$78,700.00",utah state university,,,,,"Logan, UT",220.0,"$19,772 "
+"$45,800.00","$78,500.00",university of wisconsin   platteville,,,,0.6765,,,
+"$42,200.00","$78,400.00",university of oregon,No,8631.0,6732.0,0.78,"Eugene, OR",103.0,"$33,442 "
+"$42,800.00","$78,300.00",university of kentucky ,,,,,,,
+"$45,600.00","$78,200.00",university of massachusetts   boston,,,,0.6851,,,
+"$47,000.00","$77,800.00",university of maryland baltimore county ,,,,,,,
+"$45,100.00","$77,800.00",north dakota state university ,,,,,,,
+"$38,000.00","$77,800.00",state university of new york  at oswego,,,,,,,
+"$43,200.00","$77,700.00",university of massachusetts   dartmouth,,,,,,,
+"$46,600.00","$77,500.00",montana state university  bozeman,,,,0.7347,,,
+"$37,500.00","$76,700.00",state university of new york  at oneonta,,,,,,,
+"$41,100.00","$76,300.00",university of louisiana  at lafayette,,,,,,,
+"$40,800.00","$76,200.00",state university of new york  at plattsburgh,,,,,,,
+"$42,800.00","$76,100.00",wayne state university,,,,,,,
+"$43,800.00","$76,000.00",university of hawaii,,,,,,,
+"$43,100.00","$75,900.00",university of toledo,,,,0.7955,,,
+"$43,200.00","$75,500.00",florida international university ,,,,0.8818,,,
+"$40,800.00","$75,500.00",university of wisconsin   whitewater,,,,,,,
+"$42,700.00","$75,400.00",western washington university,No,5548.0,3563.0,0.64,,,
+"$43,300.00","$74,700.00",minnesota state university  mankato,,,,0.7147,,,
+"$42,300.00","$74,600.00",university of wisconsin   milwaukee,,,,0.3017,,,
+"$39,200.00","$74,500.00",university of arkansas  monticello ,,,,1,,,
+"$45,700.00","$74,000.00",penn state  harrisburg,,,,0.2302,,,
+"$43,100.00","$74,000.00",university of north carolina at charlotte ,,,,0.8582,,,
+"$41,800.00","$74,000.00",georgia state university,No,3793.0,2341.0,0.62,,,
+"$42,300.00","$73,800.00",western michigan university ,,,,0.5515,,,
+"$41,100.00","$73,500.00",south dakota state university ,,,,0.6526,,,
+"$44,900.00","$73,400.00",idaho state university,,,,0.6394,,,
+"$42,000.00","$73,400.00",illinois state university,No,8681.0,6695.0,0.77,"Normal, IL",152.0,"$20,886 "
+"$43,500.00","$73,100.00",cleveland state university,,,,0.4341,,,
+"$45,900.00","$72,600.00",university of alaska anchorage,,,,0.716,,,
+"$42,400.00","$72,600.00",fitchburg state college,,,,0.3121,,,
+"$41,500.00","$72,600.00",university of nebraska at omaha,,,,0.4152,,,
+"$43,000.00","$72,500.00",southern illinois university carbondale,,,,0.5063,,,
+"$43,400.00","$72,100.00",university of texas at el paso ,,,,0.6386,,,
+"$42,700.00","$72,100.00",california state university dominguez hills ,,,,0.1484,,,
+"$41,200.00","$72,100.00",university of maine,,,,0.4107,"Orono, ME",183.0,"$29,498 "
+"$40,300.00","$72,100.00",eastern michigan university,,,,0.2876,,,
+"$39,800.00","$72,100.00",bowling green state university,No,9251.0,7333.0,0.79,"Bowling Green, OH",194.0,"$18,332 "
+"$37,300.00","$71,900.00",university of montana,,,,0.5057,"Missoula, MT",214.0,"$24,562 "
+"$42,600.00","$71,700.00",university of central florida ,,,,0.3006,,,
+"$40,000.00","$71,700.00",university of south carolina,,,,,"Columbia, SC",107.0,"$31,282 "
+"$45,200.00","$71,600.00",university of nevada las vegas ,,,,0.322,,,
+"$41,800.00","$71,400.00",st cloud state university,,,,0.4737,,,
+"$40,700.00","$71,400.00",university of wisconsin   parkside,,,,,,,
+"$38,000.00","$71,400.00",california state university  stanislaus,,,,,,,
+"$42,600.00","$71,300.00",humboldt state university,,,,1,,,
+"$42,600.00","$71,100.00",florida atlantic university ,,,,,,,
+"$41,100.00","$71,100.00",university of south florida ,,,,,,,
+"$42,600.00","$70,900.00",portland state university ,,,,0.2297,,,
+"$38,600.00","$70,900.00",eastern washington university,,,,0.6652,,,
+"$42,500.00","$70,700.00",university of texas at san antonio ,,,,,,,
+"$41,100.00","$70,300.00",university of akron,,,,,,,
+"$38,000.00","$70,300.00",state university of new york  at potsdam,,,,,,,
+"$39,200.00","$70,100.00",university of alabama at birmingham ,,,,,,,
+"$41,400.00","$69,700.00",university of memphis ,,,,0.913,,,
+"$40,800.00","$69,500.00",boise state university ,,,,,,,
+"$36,100.00","$69,500.00",missouri state university ,,,,,,,
+"$42,200.00","$69,300.00",university of wisconsin   la crosse,,,,,,,
+"$40,400.00","$69,100.00",appalachian state university,No,7313.0,4664.0,0.64,,,
+"$42,000.00","$68,400.00",virginia commonwealth university ,,,,,,,
+"$43,600.00","$68,300.00",university of wisconsin   stout,,,,,,,
+"$40,200.00","$67,500.00",east carolina university ,,,,,,,
+"$42,400.00","$67,100.00",utah valley state college,,,,,,,
+"$41,400.00","$67,100.00",university of missouri  st louis ,,,,,,,
+"$36,900.00","$66,600.00",western carolina university,No,3224.0,2519.0,0.78,,,
+"$39,300.00","$66,400.00",university of wisconsin   oshkosh,,,,0.5356,,,
+"$37,800.00","$66,200.00",state university of new york  at fredonia,,,,0.3727,,,
+"$38,900.00","$65,800.00",university of missouri  kansas city ,,,,0.6178,,,
+"$41,400.00","$64,800.00",university of wisconsin   eau claire,,,,0.6013,,,
+"$39,100.00","$64,500.00",ball state university ,,,,,,,
+"$37,500.00","$64,400.00",university of north carolina at wilmington ,,,,,,,
+"$39,800.00","$64,000.00",university of wisconsin   stevens point,,,,,,,
+"$39,400.00","$63,600.00",university of southern maine,,,,,,,
+"$38,700.00","$63,300.00",arkansas state university ,,,,,,,
+"$38,700.00","$62,600.00",kent state university,,,,0.0931,"Kent, OH",188.0,"$18,376 "
+"$40,800.00","$62,400.00",tarleton state university ,,,,,,,
+"$35,800.00","$60,600.00",university of wisconsin   green bay,,,,,,,
+"$34,800.00","$60,600.00",morehead state university,,,,,,,
+"$37,700.00","$59,200.00",austin peay state university,,,,0.5787,,,
+"$40,400.00","$58,200.00",pittsburg state university,,,,,,,
+"$41,900.00","$56,500.00",southern utah university,,,,,,,
+"$37,900.00","$50,600.00",montana state university  billings,,,,,,,
+"$35,300.00","$43,900.00",black hills state university,,,,,,,
+31800,,abilene christian university,Yes,1660.0,1232.0,0.74,,,
+33200,,adelphi university,Yes,2186.0,1924.0,0.88,"Garden City, NY",146.0,"$34,034 "
+29700,,adrian college,Yes,1428.0,1097.0,0.77,,,
+33000,,agnes scott college,Yes,417.0,349.0,0.84,,,
+35600,,alaska pacific university,Yes,193.0,146.0,0.76,,,
+29000,,albertson college,Yes,587.0,479.0,0.82,,,
+35600,,albertus magnus college,Yes,353.0,340.0,0.96,,,
+41700,,albion college,Yes,1899.0,1720.0,0.91,,,
+PrivacySuppressed,,albright college,Yes,1038.0,839.0,0.81,,,
+PrivacySuppressed,,aldersonbroaddus college,Yes,582.0,498.0,0.86,,,
+30600,,alfred university,Yes,1732.0,1425.0,0.82,,,
+36800,,allegheny college,Yes,2652.0,1900.0,0.72,,,
+37600,,allentown coll of st francis de sales,Yes,1179.0,780.0,0.66,,,
+55600,,alma college,Yes,1267.0,1080.0,0.85,,,
+,,alverno college,Yes,494.0,313.0,0.63,,,
+31300,,american international college,Yes,1420.0,1093.0,0.77,,,
+31800,,anderson university,Yes,1216.0,908.0,0.75,,,
+19100,,andrews university,Yes,1130.0,704.0,0.62,"Berrien Springs, MI",183.0,"$27,684 "
+,,angelo state university,No,3540.0,2001.0,0.57,,,
+33300,,antioch university,Yes,713.0,661.0,0.93,,,
+36600,,aquinas college,Yes,619.0,516.0,0.83,,,
+37200,,arizona state university main campus,No,12809.0,10308.0,0.8,,,
+37200,,arkansas college ,Yes,708.0,334.0,0.47,,,
+37200,,arkansas tech university,No,1734.0,1729.0,1.0,,,
+29100,,assumption college,Yes,2135.0,1700.0,0.8,,,
+25900,,auburn universitymain campus,No,7548.0,6791.0,0.9,,,
+,,augsburg college,Yes,662.0,513.0,0.77,,,
+PrivacySuppressed,,augustana college il,Yes,1879.0,1658.0,0.88,,,
+,,augustana college,Yes,761.0,725.0,0.95,,,
+46500,,austin college,Yes,948.0,798.0,0.84,,,
+,,averett college,Yes,627.0,556.0,0.89,,,
+17400,,baker university,Yes,602.0,483.0,0.8,,,
+28000,,baldwinwallace college,Yes,1690.0,1366.0,0.81,,,
+43900,,barat college,Yes,261.0,192.0,0.74,,,
+PrivacySuppressed,,bard college,Yes,1910.0,838.0,0.44,,,
+33400,,barnard college,Yes,2496.0,1402.0,0.56,,,
+30400,,barry university,Yes,990.0,784.0,0.79,,,
+46500,,baylor university,Yes,6075.0,5349.0,0.88,"Waco, TX",71.0,"$42,006 "
+33200,,beaver college,Yes,1163.0,850.0,0.73,,,
+28900,,bellarmine college,Yes,807.0,707.0,0.88,,,
+71100,,belmont abbey college,Yes,632.0,494.0,0.78,,,
+33300,,belmont university,Yes,1220.0,974.0,0.8,,,
+,,beloit college,Yes,1320.0,923.0,0.7,,,
+34000,,bemidji state university,No,1208.0,877.0,0.73,,,
+19300,,benedictine college,Yes,632.0,620.0,0.98,,,
+32100,,bennington college,Yes,519.0,327.0,0.63,,,
+88800,,bentley college,Yes,3466.0,2330.0,0.67,,,
+25400,,berry college,Yes,1858.0,1221.0,0.66,,,
+50800,,bethany college,Yes,878.0,816.0,0.93,,,
+,,bethel college ks,Yes,202.0,184.0,0.91,,,
+36600,,bethel college,Yes,502.0,384.0,0.76,,,
+28800,,bethune cookman college,Yes,1646.0,1150.0,0.7,,,
+25400,,birminghamsouthern college,Yes,805.0,588.0,0.73,,,
+33400,,blackburn college,Yes,500.0,336.0,0.67,,,
+37800,,bloomsburg univ of pennsylvania,No,6773.0,3028.0,0.45,,,
+PrivacySuppressed,,bluefield college,Yes,377.0,358.0,0.95,,,
+36900,,bluffton college,Yes,692.0,514.0,0.74,,,
+22800,,boston university,Yes,20192.0,13007.0,0.64,"Boston, MA",39.0,"$50,240 "
+58000,,bradford college,Yes,443.0,330.0,0.74,,,
+PrivacySuppressed,,bradley university,Yes,3767.0,3414.0,0.91,,,
+26300,,brandeis university,Yes,4186.0,2743.0,0.66,"Waltham, MA",34.0,"$51,570 "
+32700,,brenau university,Yes,367.0,274.0,0.75,,,
+49200,,brewtonparker college,Yes,1436.0,1228.0,0.86,,,
+32900,,briar cliff college,Yes,392.0,351.0,0.9,,,
+25900,,bridgewater college,Yes,838.0,673.0,0.8,,,
+15900,,brigham young university at provo,Yes,7365.0,5402.0,0.73,,,
+27700,,bryn mawr college,Yes,1465.0,810.0,0.55,,,
+31300,,buena vista college,Yes,860.0,688.0,0.8,,,
+,,butler university,Yes,2362.0,2037.0,0.86,,,
+PrivacySuppressed,,cabrini college,Yes,599.0,494.0,0.82,,,
+PrivacySuppressed,,caldwell college,Yes,1011.0,604.0,0.6,,,
+49500,,california lutheran university,Yes,563.0,247.0,0.44,,,
+80600,,california polytechnicsan luis,No,7811.0,3817.0,0.49,,,
+28900,,california state university at fresno,No,4540.0,3294.0,0.73,,,
+PrivacySuppressed,,calvin college,Yes,1784.0,1512.0,0.85,,,
+32100,,campbell university,Yes,2087.0,1339.0,0.64,,,
+34900,,campbellsville college,Yes,848.0,587.0,0.69,,,
+24800,,canisius college,Yes,2853.0,2193.0,0.77,,,
+28800,,capital university,Yes,1747.0,1382.0,0.79,,,
+31900,,capitol college,Yes,100.0,90.0,0.9,,,
+41700,,carnegie mellon university,Yes,8728.0,5201.0,0.6,"Pittsburgh, PA",24.0,"$52,040 "
+26700,,carroll college,Yes,1160.0,991.0,0.85,,,
+86500,,carsonnewman college,Yes,1096.0,951.0,0.87,,,
+32600,,carthage college,Yes,1616.0,1427.0,0.88,,,
+34900,,case western reserve university,Yes,3877.0,3156.0,0.81,"Cleveland, OH",37.0,"$46,006 "
+61300,,castleton state college,No,1257.0,940.0,0.75,,,
+PrivacySuppressed,,catawba college,Yes,1083.0,880.0,0.81,,,
+,,catholic university of america,Yes,1754.0,1465.0,0.84,,,
+15500,,cazenovia college,Yes,3847.0,3433.0,0.89,,,
+18700,,cedar crest college,Yes,776.0,607.0,0.78,,,
+20200,,cedarville college,Yes,1307.0,1090.0,0.83,,,
+33300,,centenary college,Yes,369.0,312.0,0.85,,,
+33700,,centenary college of louisiana,Yes,495.0,434.0,0.88,,,
+35900,,center for creative studies,Yes,601.0,396.0,0.66,,,
+26300,,central college,Yes,1283.0,1113.0,0.87,,,
+50900,,central connecticut state university,No,4158.0,2532.0,0.61,,,
+27000,,central missouri state university,No,4681.0,4101.0,0.88,,,
+32600,,central washington university,No,2785.0,2011.0,0.72,,,
+39900,,central wesleyan college,Yes,174.0,146.0,0.84,,,
+28900,,centre college,Yes,1013.0,888.0,0.88,,,
+34500,,chapman university,Yes,959.0,771.0,0.8,,,
+19000,,chatham college,Yes,212.0,197.0,0.93,,,
+30800,,chestnut hill college,Yes,342.0,254.0,0.74,,,
+PrivacySuppressed,,christendom college,Yes,81.0,72.0,0.89,,,
+58200,,christian brothers university,Yes,880.0,520.0,0.59,,,
+31900,,christopher newport university,No,883.0,766.0,0.87,,,
+38600,,claflin college,Yes,1196.0,697.0,0.58,,,
+35000,,claremont mckenna college,Yes,1860.0,767.0,0.41,,,
+53200,,clark university,Yes,2887.0,2059.0,0.71,"Worcester, MA",74.0,"$43,150 "
+28800,,clarke college,Yes,460.0,340.0,0.74,,,
+30100,,clarkson university,Yes,2174.0,1953.0,0.9,"Potsdam, NY",129.0,"$46,132 "
+37000,,clinch valley coll of  the univ of virginia,No,689.0,561.0,0.81,,,
+26200,,coe college,Yes,1006.0,742.0,0.74,,,
+59400,,coker college,Yes,604.0,452.0,0.75,,,
+,,college misericordia,Yes,1432.0,888.0,0.62,,,
+49400,,college of charleston,No,4772.0,3140.0,0.66,,,
+24300,,college of mount st joseph,Yes,798.0,620.0,0.78,,,
+17400,,college of mount st vincent,Yes,946.0,648.0,0.68,,,
+27900,,college of notre dame,Yes,344.0,264.0,0.77,,,
+26600,,college of notre dame of maryland,Yes,457.0,356.0,0.78,,,
+25800,,college of saint benedict,Yes,938.0,864.0,0.92,,,
+56400,,college of saint catherine,Yes,511.0,411.0,0.8,,,
+50600,,college of saint elizabeth,Yes,444.0,359.0,0.81,,,
+38900,,college of saint rose,Yes,983.0,664.0,0.68,,,
+38100,,college of santa fe,Yes,546.0,447.0,0.82,,,
+44900,,college of st joseph,Yes,141.0,118.0,0.84,,,
+31000,,college of st scholastica,Yes,672.0,596.0,0.89,,,
+36000,,college of william and mary,No,7117.0,3106.0,0.44,,,
+28800,,college of wooster,Yes,2100.0,1883.0,0.9,,,
+PrivacySuppressed,,colorado college,Yes,3207.0,1577.0,0.49,,,
+42800,,colorado state university,No,9478.0,6312.0,0.67,"Fort Collins, CO",129.0,"$28,374 "
+,,columbia college mo,Yes,314.0,158.0,0.5,,,
+PrivacySuppressed,,columbia college,Yes,737.0,614.0,0.83,,,
+51700,,concordia college at st paul,Yes,281.0,266.0,0.95,,,
+71700,,concordia lutheran college,Yes,232.0,216.0,0.93,,,
+22900,,concordia university ca,Yes,688.0,497.0,0.72,,,
+34400,,concordia university,Yes,528.0,403.0,0.76,,,
+33800,,connecticut college,Yes,3035.0,1546.0,0.51,,,
+65500,,converse college,Yes,440.0,407.0,0.92,,,
+48700,,cornell college,Yes,1538.0,1329.0,0.86,,,
+37000,,creighton university,Yes,2967.0,2836.0,0.96,,,
+50900,,culverstockton college,Yes,1576.0,1110.0,0.7,,,
+58100,,cumberland college,Yes,995.0,789.0,0.79,,,
+27700,,d'youville college,Yes,866.0,619.0,0.71,,,
+14900,,dana college,Yes,504.0,482.0,0.96,,,
+33800,,daniel webster college,Yes,585.0,508.0,0.87,,,
+,,defiance college,Yes,571.0,461.0,0.81,,,
+,,delta state university,No,967.0,945.0,0.98,,,
+55000,,dickinson college,Yes,3014.0,2539.0,0.84,,,
+28100,,dickinson state university,No,434.0,412.0,0.95,,,
+PrivacySuppressed,,dillard university,Yes,1998.0,1376.0,0.69,,,
+PrivacySuppressed,,doane college,Yes,793.0,709.0,0.89,,,
+35100,,dominican college of blauvelt,Yes,360.0,329.0,0.91,,,
+31600,,dordt college,Yes,604.0,562.0,0.93,,,
+12600,,dowling college,Yes,1011.0,829.0,0.82,,,
+PrivacySuppressed,,drake university,Yes,2799.0,2573.0,0.92,,,
+34300,,drew university,Yes,2153.0,1580.0,0.73,,,
+38700,,drury college,Yes,700.0,650.0,0.93,,,
+111100,,duke university,Yes,13789.0,3893.0,0.28,"Durham, NC",8.0,"$51,265 "
+29200,,earlham college,Yes,1358.0,1006.0,0.74,,,
+37800,,east carolina university,No,9274.0,6362.0,0.69,"Greenville, NC",210.0,"$22,904 "
+39300,,east tennessee state university,No,3330.0,2730.0,0.82,,,
+51000,,east texas baptist university,Yes,379.0,341.0,0.9,,,
+60000,,eastern college,Yes,458.0,369.0,0.81,,,
+31900,,eastern connecticut state university,No,2172.0,1493.0,0.69,,,
+19700,,eastern illinois university,No,5597.0,4253.0,0.76,,,
+49200,,eastern mennonite college,Yes,486.0,440.0,0.91,,,
+,,eastern nazarene college,Yes,516.0,409.0,0.79,,,
+62300,,eckerd college,Yes,1422.0,1109.0,0.78,,,
+,,elizabethtown college,Yes,2417.0,1843.0,0.76,,,
+30800,,elmira college,Yes,1457.0,1045.0,0.72,,,
+28300,,elms college,Yes,245.0,208.0,0.85,,,
+37300,,elon college,Yes,3624.0,2786.0,0.77,,,
+31400,,embry riddle aeronautical university,Yes,3151.0,2584.0,0.82,,,
+56100,,emory & henry college,Yes,765.0,646.0,0.84,,,
+40700,,emory university,Yes,8506.0,4168.0,0.49,"Atlanta, GA",20.0,"$47,954 "
+24800,,emporia state university,No,1256.0,1256.0,1.0,,,
+29400,,erskine college,Yes,659.0,557.0,0.85,,,
+36800,,eureka college,Yes,560.0,454.0,0.81,,,
+72600,,fairfield university,Yes,4784.0,3346.0,0.7,,,
+33000,,fayetteville state university,No,1455.0,1064.0,0.73,,,
+35700,,ferrum college,Yes,1339.0,1107.0,0.83,,,
+,,flagler college,Yes,1415.0,714.0,0.5,,,
+54100,,florida institute of technology,Yes,1947.0,1580.0,0.81,"Melbourne, FL",171.0,"$40,446 "
+27400,,florida international university,No,3306.0,2079.0,0.63,,,
+PrivacySuppressed,,florida southern college,Yes,1381.0,1040.0,0.75,,,
+27500,,florida state university,No,11651.0,8683.0,0.75,"Tallahassee, FL",92.0,"$24,673 "
+30700,,fontbonne college,Yes,291.0,245.0,0.84,,,
+13800,,fordham university,Yes,4200.0,2874.0,0.68,"New York, NY",60.0,"$47,317 "
+41100,,francis marion university,No,1801.0,1655.0,0.92,,,
+34500,,franciscan university of steubenville,Yes,553.0,452.0,0.82,,,
+25900,,franklin college,Yes,804.0,632.0,0.79,,,
+27800,,franklin pierce college,Yes,5187.0,4471.0,0.86,,,
+40500,,freedhardeman university,Yes,895.0,548.0,0.61,,,
+27300,,fresno pacific college,Yes,346.0,274.0,0.79,,,
+56300,,furman university,Yes,2161.0,1951.0,0.9,,,
+34800,,gannon university,Yes,2464.0,1908.0,0.77,,,
+49200,,gardner webb university,Yes,1110.0,930.0,0.84,,,
+31700,,geneva college,Yes,668.0,534.0,0.8,,,
+32300,,george fox college,Yes,809.0,726.0,0.9,,,
+41800,,george washington university,Yes,7875.0,5062.0,0.64,"Washington, DC",56.0,"$51,950 "
+40400,,georgetown college,Yes,727.0,693.0,0.95,,,
+30800,,georgetown university,Yes,11115.0,2881.0,0.26,"Washington, DC",20.0,"$50,547 "
+,,georgian court college,Yes,348.0,281.0,0.81,,,
+,,goldey beacom college,Yes,633.0,468.0,0.74,,,
+85300,,gonzaga university,Yes,1886.0,1524.0,0.81,,,
+43100,,gordon college,Yes,674.0,565.0,0.84,,,
+74000,,goshen college,Yes,440.0,396.0,0.9,,,
+93300,,goucher college,Yes,1151.0,813.0,0.71,,,
+31800,,grace college and seminary,Yes,548.0,428.0,0.78,,,
+PrivacySuppressed,,graceland college,Yes,555.0,414.0,0.75,,,
+42100,,grand valley state university,No,5165.0,3887.0,0.75,,,
+25100,,green mountain college,Yes,780.0,628.0,0.81,,,
+25000,,greensboro college,Yes,608.0,494.0,0.81,,,
+30800,,greenville college,Yes,510.0,387.0,0.76,,,
+37500,,grove city college,Yes,2491.0,1110.0,0.45,,,
+33800,,guilford college,Yes,1202.0,1054.0,0.88,,,
+,,gwynedd mercy college,Yes,380.0,237.0,0.62,,,
+27800,,hamline university,Yes,1006.0,825.0,0.82,,,
+32600,,hampden  sydney college,Yes,817.0,644.0,0.79,,,
+50100,,hampton university,Yes,7178.0,3755.0,0.52,,,
+,,hanover college,Yes,1006.0,837.0,0.83,,,
+28300,,hardinsimmons university,Yes,467.0,424.0,0.91,,,
+31500,,harding university,Yes,1721.0,1068.0,0.62,,,
+38800,,hartwick college,Yes,2083.0,1725.0,0.83,,,
+30800,,hastings college,Yes,817.0,708.0,0.87,,,
+,,hendrix college,Yes,823.0,721.0,0.88,,,
+51400,,hillsdale college,Yes,920.0,745.0,0.81,,,
+46800,,hiram college,Yes,922.0,729.0,0.79,,,
+48200,,hobart and william smith colleges,Yes,2688.0,2081.0,0.77,,,
+PrivacySuppressed,,hofstra university,Yes,7428.0,5860.0,0.79,"Hempstead, NY",133.0,"$42,160 "
+PrivacySuppressed,,hollins college,Yes,602.0,498.0,0.83,,,
+PrivacySuppressed,,hood college,Yes,699.0,565.0,0.81,,,
+28600,,hope college,Yes,1712.0,1483.0,0.87,,,
+PrivacySuppressed,,houghton college,Yes,949.0,786.0,0.83,,,
+35200,,huntingdon college,Yes,608.0,520.0,0.86,,,
+34400,,huntington college,Yes,450.0,430.0,0.96,,,
+38100,,huron university,Yes,600.0,197.0,0.33,,,
+29600,,husson college,Yes,723.0,652.0,0.9,,,
+56400,,illinois benedictine college,Yes,607.0,558.0,0.92,,,
+43900,,illinois college,Yes,894.0,787.0,0.88,,,
+46300,,illinois institute of technology,Yes,1756.0,1360.0,0.77,"Chicago, IL",103.0,"$45,214 "
+50800,,illinois wesleyan university,Yes,3050.0,1342.0,0.44,,,
+39300,,immaculata college,Yes,268.0,253.0,0.94,,,
+45400,,incarnate word college,Yes,1163.0,927.0,0.8,,,
+30400,,indiana state university,No,5659.0,4761.0,0.84,,,
+32700,,indiana university at bloomington,No,16587.0,13243.0,0.8,,,
+38400,,indiana wesleyan university,Yes,735.0,423.0,0.58,,,
+84900,,iona college,Yes,4892.0,3530.0,0.72,,,
+35100,,ithaca college,Yes,7259.0,5526.0,0.76,,,
+47100,,james madison university,No,11223.0,5285.0,0.47,,,
+42200,,jamestown college,Yes,472.0,410.0,0.87,,,
+34200,,jersey city state college,No,2957.0,1423.0,0.48,,,
+27100,,john brown university,Yes,605.0,405.0,0.67,,,
+31800,,john carroll university,Yes,2421.0,2109.0,0.87,,,
+31500,,johns hopkins university,Yes,8474.0,3446.0,0.41,"Baltimore, MD",10.0,"$50,410 "
+37100,,johnson state college,No,833.0,669.0,0.8,,,
+,,judson college,Yes,313.0,228.0,0.73,,,
+56500,,kansas state university,No,5880.0,4075.0,0.69,"Manhattan, KS",135.0,"$23,429 "
+23900,,kansas wesleyan university,Yes,589.0,575.0,0.98,,,
+35200,,keene state college,No,3121.0,2446.0,0.78,,,
+35700,,kentucky wesleyan college,Yes,584.0,497.0,0.85,,,
+PrivacySuppressed,,kenyon college,Yes,2212.0,1538.0,0.7,,,
+19100,,keuka college,Yes,461.0,381.0,0.83,,,
+28400,,king's college,Yes,1456.0,1053.0,0.72,,,
+36800,,king college,Yes,355.0,300.0,0.85,,,
+40200,,knox college,Yes,1040.0,845.0,0.81,,,
+28400,,la roche college,Yes,361.0,321.0,0.89,,,
+20700,,la salle university,Yes,2929.0,1834.0,0.63,,,
+29700,,lagrange college,Yes,544.0,399.0,0.73,,,
+33200,,lake forest college,Yes,979.0,638.0,0.65,,,
+42000,,lakeland college,Yes,497.0,452.0,0.91,,,
+25900,,lambuth university,Yes,831.0,538.0,0.65,,,
+27400,,lander university,No,1166.0,1009.0,0.87,,,
+31300,,lawrence university,Yes,1243.0,947.0,0.76,,,
+27700,,le moyne college,Yes,1470.0,1199.0,0.82,,,
+36900,,lebanon valley college,Yes,1386.0,1060.0,0.76,,,
+56400,,lehigh university,Yes,6397.0,4304.0,0.67,"Bethlehem, PA",44.0,"$48,320 "
+33000,,lenoirrhyne college,Yes,979.0,743.0,0.76,,,
+PrivacySuppressed,,lesley college,Yes,244.0,198.0,0.81,,,
+37500,,letourneau university,Yes,477.0,417.0,0.87,,,
+33100,,lewis and clark college,Yes,2774.0,2092.0,0.75,,,
+34700,,lewis university,Yes,1154.0,1050.0,0.91,,,
+21700,,lincoln memorial university,Yes,787.0,562.0,0.71,,,
+27000,,lincoln university,No,1660.0,1091.0,0.66,,,
+,,lindenwood college,Yes,810.0,484.0,0.6,,,
+17100,,linfield college,Yes,1561.0,1188.0,0.76,,,
+39000,,livingstone college,Yes,900.0,473.0,0.53,,,
+51200,,lock haven university of pennsylvania,No,3570.0,2215.0,0.62,,,
+36300,,longwood college,No,2747.0,1870.0,0.68,,,
+PrivacySuppressed,,loras college,Yes,1641.0,1283.0,0.78,,,
+28600,,louisiana college,Yes,2013.0,1053.0,0.52,,,
+43100,,louisiana state university at baton rouge,No,5996.0,4993.0,0.83,,,
+47900,,louisiana tech university,No,2397.0,2144.0,0.89,"Ruston, LA",202.0,"$25,851 "
+38800,,loyola college,Yes,4076.0,3137.0,0.77,,,
+32800,,loyola marymount university,Yes,3768.0,2662.0,0.71,,,
+54900,,loyola university,Yes,1891.0,1698.0,0.9,,,
+36900,,loyola university chicago,Yes,3579.0,2959.0,0.83,"Chicago, IL",99.0,"$41,384 "
+58400,,luther college,Yes,1549.0,1392.0,0.9,,,
+38300,,lycoming college,Yes,1286.0,1005.0,0.78,,,
+41500,,lynchburg college,Yes,1756.0,1500.0,0.85,,,
+46400,,lyndon state college,No,535.0,502.0,0.94,,,
+72100,,macalester college,Yes,2939.0,1496.0,0.51,,,
+28600,,macmurray college,Yes,740.0,558.0,0.75,,,
+32300,,malone college,Yes,874.0,758.0,0.87,,,
+82000,,manchester college,Yes,1004.0,802.0,0.8,,,
+25000,,manhattan college,Yes,2432.0,1730.0,0.71,,,
+,,manhattanville college,Yes,962.0,750.0,0.78,,,
+47800,,mankato state university,No,3073.0,2672.0,0.87,,,
+,,marian college of fond du lac,Yes,824.0,670.0,0.81,,,
+29900,,marietta college,Yes,1611.0,960.0,0.6,,,
+34700,,marist college,Yes,4731.0,3171.0,0.67,,,
+35400,,marquette university,Yes,5152.0,4600.0,0.89,"Milwaukee, WI",86.0,"$38,470 "
+35300,,marshall university,Yes,4226.0,3666.0,0.87,,,
+32000,,mary baldwin college,Yes,499.0,441.0,0.88,,,
+32700,,mary washington college,No,4350.0,2178.0,0.5,,,
+41500,,marymount college tarrytown,Yes,478.0,327.0,0.68,,,
+41300,,marymount manhattan college,Yes,695.0,535.0,0.77,,,
+52100,,marymount university,Yes,941.0,772.0,0.82,,,
+33500,,maryville college,Yes,1464.0,888.0,0.61,,,
+33900,,maryville university,Yes,549.0,397.0,0.72,,,
+31400,,marywood college,Yes,1107.0,859.0,0.78,,,
+39900,,massachusetts institute of technology,Yes,6411.0,2140.0,0.33,"Cambridge, MA",7.0,"$48,452 "
+40900,,mayville state university,No,233.0,233.0,1.0,,,
+26100,,mckendree college,Yes,1002.0,555.0,0.55,,,
+63300,,mcmurry university,Yes,578.0,411.0,0.71,,,
+56000,,mcpherson college,Yes,420.0,293.0,0.7,,,
+52800,,mercer university,Yes,2286.0,1668.0,0.73,"Macon, GA",135.0,"$35,130 "
+32800,,mercyhurst college,Yes,1557.0,1074.0,0.69,,,
+45300,,meredith college,Yes,857.0,772.0,0.9,,,
+20200,,merrimack college,Yes,1981.0,1541.0,0.78,,,
+66100,,mesa state college,No,1584.0,1456.0,0.92,,,
+34600,,messiah college,Yes,1742.0,1382.0,0.79,,,
+,,miami university at oxford,No,9239.0,7788.0,0.84,,,
+54700,,michigan state university,No,18114.0,15096.0,0.83,"East Lansing, MI",82.0,"$39,090 "
+45200,,michigan technological university,No,2618.0,2288.0,0.87,"Houghton, MI",118.0,"$30,968 "
+83200,,midamerica nazarene college,Yes,331.0,331.0,1.0,,,
+PrivacySuppressed,,millersville university of penn,No,6011.0,3075.0,0.51,,,
+25400,,milligan college,Yes,610.0,461.0,0.76,,,
+31300,,millikin university,Yes,1444.0,1261.0,0.87,,,
+35800,,millsaps college,Yes,905.0,834.0,0.92,,,
+57000,,milwaukee school of engineering,Yes,1217.0,1088.0,0.89,,,
+44500,,mississippi college,Yes,594.0,385.0,0.65,,,
+24100,,mississippi state university,No,4255.0,3277.0,0.77,"Mississippi State, MS",176.0,"$20,142 "
+42900,,mississippi university for women,No,480.0,405.0,0.84,,,
+42500,,missouri southern state college,No,1576.0,1326.0,0.84,,,
+61000,,missouri valley college,Yes,1310.0,983.0,0.75,,,
+56800,,monmouth college il,Yes,601.0,503.0,0.84,,,
+35200,,monmouth college,Yes,2707.0,1881.0,0.69,,,
+,,montana college of mineral sci & tech,No,572.0,544.0,0.95,,,
+31000,,montana state university,No,3500.0,2836.0,0.81,"Bozeman, MT",210.0,"$23,042 "
+69600,,montclair state university,No,5220.0,2128.0,0.41,"Montclair, NJ",176.0,"$20,318 "
+93500,,montreatanderson college,Yes,263.0,223.0,0.85,,,
+49200,,moorhead state university,No,2442.0,2164.0,0.89,,,
+45900,,morehouse college,Yes,3708.0,1678.0,0.45,,,
+PrivacySuppressed,,morningside college,Yes,586.0,533.0,0.91,,,
+38800,,morris college,Yes,882.0,730.0,0.83,,,
+,,mount marty college,Yes,279.0,276.0,0.99,,,
+32300,,mount mary college,Yes,235.0,217.0,0.92,,,
+31800,,mount mercy college,Yes,368.0,317.0,0.86,,,
+45800,,mount saint clare college,Yes,325.0,284.0,0.87,,,
+29200,,mount saint mary's college,Yes,1321.0,1159.0,0.88,,,
+39300,,mount saint mary college,Yes,1170.0,695.0,0.59,,,
+14900,,mount st mary's college,Yes,657.0,537.0,0.82,,,
+29300,,mount union college,Yes,1310.0,1086.0,0.83,,,
+34900,,mount vernon nazarene college,Yes,510.0,485.0,0.95,,,
+30200,,muhlenberg college,Yes,2519.0,1836.0,0.73,,,
+31400,,murray state university,No,2225.0,1910.0,0.86,,,
+29800,,muskingum college,Yes,1109.0,922.0,0.83,,,
+45400,,nationallouis university,Yes,513.0,347.0,0.68,,,
+30800,,nazareth college of rochester,Yes,947.0,798.0,0.84,,,
+30300,,new jersey institute of technology,No,1879.0,1216.0,0.65,"Newark, NJ",135.0,"$30,326 "
+26400,,new mexico institute of mining and tech,No,787.0,601.0,0.76,,,
+28700,,new york university,Yes,13594.0,7244.0,0.53,"New York, NY",36.0,"$49,062 "
+33400,,newberry college,Yes,872.0,722.0,0.83,,,
+42200,,niagara university,Yes,2220.0,1796.0,0.81,,,
+34700,,north adams state college,No,1563.0,1005.0,0.64,,,
+25900,,north carolina a & t state university,No,4809.0,3089.0,0.64,,,
+66200,,north carolina state university at raleigh,No,10634.0,7064.0,0.66,,,
+37600,,north carolina wesleyan college,Yes,812.0,689.0,0.85,,,
+43200,,north central college,Yes,1127.0,884.0,0.78,,,
+31900,,north dakota state university,No,2968.0,2297.0,0.77,"Fargo, ND",188.0,"$19,790 "
+38900,,north park college,Yes,465.0,361.0,0.78,,,
+39100,,northeast missouri state university,No,6040.0,4577.0,0.76,,,
+21300,,northeastern university,Yes,11901.0,8492.0,0.71,"Boston, MA",39.0,"$47,655 "
+22900,,northern arizona university,No,5891.0,4931.0,0.84,,,
+23600,,northern illinois university,No,10706.0,7219.0,0.67,"DeKalb, IL",214.0,"$23,799 "
+56000,,northwest missouri state university,No,2729.0,2535.0,0.93,,,
+56600,,northwest nazarene college,Yes,616.0,514.0,0.83,,,
+50900,,northwestern college,Yes,860.0,811.0,0.94,,,
+46300,,northwestern university,Yes,12289.0,5200.0,0.42,"Evanston, IL",12.0,"$50,855 "
+29300,,norwich university,Yes,1743.0,1625.0,0.93,,,
+27600,,notre dame college,Yes,379.0,324.0,0.85,,,
+25400,,oakland university,No,3041.0,2581.0,0.85,,,
+PrivacySuppressed,,oglethorpe university,Yes,792.0,649.0,0.82,,,
+41400,,ohio northern university,Yes,2936.0,2342.0,0.8,,,
+46400,,ohio wesleyan university,Yes,2190.0,1700.0,0.78,,,
+24600,,oklahoma baptist university,Yes,758.0,681.0,0.9,,,
+56000,,oklahoma christian university,Yes,776.0,765.0,0.99,,,
+17900,,otterbein college,Yes,1496.0,1205.0,0.81,,,
+39300,,ouachita baptist university,Yes,910.0,773.0,0.85,,,
+25100,,our lady of the lake university,Yes,2308.0,1336.0,0.58,,,
+46600,,pace university,Yes,8256.0,3750.0,0.45,"New York, NY",188.0,"$42,772 "
+29700,,pacific lutheran university,Yes,1603.0,1392.0,0.87,,,
+33300,,pacific union college,Yes,940.0,668.0,0.71,,,
+PrivacySuppressed,,pacific university,Yes,943.0,849.0,0.9,,,
+,,pembroke state university,No,944.0,774.0,0.82,,,
+26100,,pennsylvania state univ main campus,No,19315.0,10344.0,0.54,,,
+30400,,pepperdine university,Yes,3821.0,2037.0,0.53,"Malibu, CA",50.0,"$50,022 "
+19000,,peru state college,No,701.0,501.0,0.71,,,
+31600,,pfeiffer college,Yes,838.0,651.0,0.78,,,
+50500,,philadelphia coll of textiles and sci,Yes,1538.0,1259.0,0.82,,,
+31100,,phillips university,Yes,692.0,576.0,0.83,,,
+14500,,piedmont college,Yes,663.0,562.0,0.85,,,
+29500,,pikeville college,Yes,404.0,400.0,0.99,,,
+26500,,pitzer college,Yes,1133.0,630.0,0.56,,,
+30900,,point loma nazarene college,Yes,809.0,687.0,0.85,,,
+31100,,point park college,Yes,875.0,744.0,0.85,,,
+26000,,polytechnic university,Yes,1132.0,847.0,0.75,,,
+29400,,prairie view a and m university,No,2405.0,2234.0,0.93,,,
+16400,,presbyterian college,Yes,1082.0,832.0,0.77,,,
+44800,,providence college,Yes,5139.0,3346.0,0.65,,,
+30900,,purdue university at west lafayette,No,21804.0,18744.0,0.86,,,
+28800,,queens college,Yes,516.0,392.0,0.76,,,
+31600,,quincy university,Yes,1025.0,707.0,0.69,,,
+,,quinnipiac college,Yes,3712.0,2153.0,0.58,,,
+41100,,radford university,No,5702.0,4894.0,0.86,,,
+29900,,ramapo college of new jersey,No,2088.0,957.0,0.46,,,
+31100,,randolphmacon woman's college,Yes,696.0,616.0,0.89,,,
+60100,,regis college,Yes,427.0,385.0,0.9,,,
+26900,,rensselaer polytechnic institute,Yes,4996.0,4165.0,0.83,"Troy, NY",39.0,"$50,797 "
+15400,,rhodes college,Yes,2302.0,1831.0,0.8,,,
+15700,,rider university,Yes,3586.0,2424.0,0.68,,,
+29400,,ripon college,Yes,587.0,501.0,0.85,,,
+43200,,rivier college,Yes,484.0,386.0,0.8,,,
+45300,,roanoke college,Yes,2227.0,1790.0,0.8,,,
+27800,,rockhurst college,Yes,935.0,858.0,0.92,,,
+27800,,rocky mountain college,Yes,560.0,392.0,0.7,,,
+40600,,roger williams university,Yes,3304.0,2804.0,0.85,,,
+33300,,rollins college,Yes,1777.0,1151.0,0.65,,,
+29700,,rosary college,Yes,434.0,321.0,0.74,,,
+28200,,rowan college of new jersey,No,3820.0,1431.0,0.37,,,
+30800,,rutgers at new brunswick,No,48094.0,26330.0,0.55,,,
+31800,,rutgers state university at camden,No,3366.0,1752.0,0.52,,,
+25200,,rutgers state university at newark,No,5785.0,2690.0,0.46,,,
+,,sacred heart university,Yes,2307.0,1896.0,0.82,,,
+21700,,saint ambrose university,Yes,897.0,718.0,0.8,,,
+33200,,saint anselm college,Yes,2095.0,1553.0,0.74,,,
+29200,,saint cloud state university,No,3971.0,3306.0,0.83,,,
+45700,,saint francis college in,Yes,213.0,166.0,0.78,,,
+22400,,saint francis college,Yes,1046.0,824.0,0.79,,,
+43800,,saint john's university,Yes,933.0,800.0,0.86,,,
+32900,,saint joseph's college in,Yes,920.0,684.0,0.74,,,
+27500,,saint joseph's college,Yes,833.0,682.0,0.82,,,
+34600,,saint joseph's university,Yes,2519.0,2003.0,0.8,,,
+26700,,saint joseph college,Yes,292.0,241.0,0.83,,,
+31800,,saint louis university,Yes,3294.0,2855.0,0.87,"St. Louis, MO",96.0,"$40,726 "
+28900,,saint mary's college,Yes,888.0,734.0,0.83,,,
+,,saint mary's college of minnesota,Yes,876.0,802.0,0.92,,,
+30800,,saint maryofthewoods college,Yes,150.0,130.0,0.87,,,
+26900,,saint michael's college,Yes,1910.0,1380.0,0.72,,,
+43500,,saint olaf college,Yes,2248.0,1673.0,0.74,,,
+49400,,saint peter's college,Yes,1606.0,1413.0,0.88,,,
+43200,,saint vincent college,Yes,700.0,595.0,0.85,,,
+34800,,saint xavier university,Yes,785.0,647.0,0.82,,,
+18900,,salemteikyo university,Yes,489.0,384.0,0.79,,,
+22400,,salem college,Yes,335.0,284.0,0.85,,,
+30700,,salisbury state university,No,4216.0,2290.0,0.54,,,
+PrivacySuppressed,,samford university,Yes,1680.0,1395.0,0.83,,,
+26100,,san diego state university,No,9402.0,7020.0,0.75,"San Diego, CA",146.0,"$18,244 "
+48600,,santa clara university,Yes,4019.0,2779.0,0.69,,,
+18300,,sarah lawrence college,Yes,1380.0,768.0,0.56,,,
+23800,,savannah coll of art and design,Yes,1109.0,688.0,0.62,,,
+33600,,schreiner college,Yes,584.0,413.0,0.71,,,
+29200,,scripps college,Yes,855.0,632.0,0.74,,,
+PrivacySuppressed,,seattle pacific university,Yes,1183.0,1016.0,0.86,"Seattle, WA",159.0,"$38,940 "
+32600,,seattle university,Yes,2115.0,1540.0,0.73,,,
+38600,,seton hall university,Yes,4576.0,3565.0,0.78,"South Orange, NJ",118.0,"$39,258 "
+24000,,seton hill college,Yes,936.0,794.0,0.85,,,
+37200,,shippensburg university of penn,No,5818.0,3281.0,0.56,,,
+32600,,shorter college,Yes,540.0,445.0,0.82,,,
+38900,,siena heights college,Yes,464.0,419.0,0.9,,,
+24300,,simmons college,Yes,1003.0,782.0,0.78,,,
+36600,,simpson college,Yes,1016.0,872.0,0.86,,,
+24300,,sioux falls college,Yes,437.0,400.0,0.92,,,
+26500,,south dakota state university,No,2807.0,2589.0,0.92,"Brookings, SD",202.0,"$11,403 "
+32900,,southeast missouri state university,No,2281.0,1870.0,0.82,,,
+39400,,southeastern oklahoma state univ,No,818.0,700.0,0.86,,,
+23000,,southern california college,Yes,385.0,340.0,0.88,,,
+23000,,southern illinois university at edwardsville,No,2540.0,2195.0,0.86,,,
+21700,,southern methodist university,Yes,4301.0,3455.0,0.8,"Dallas, TX",56.0,"$50,358 "
+32200,,southwest baptist university,Yes,1093.0,1093.0,1.0,,,
+29000,,southwest missouri state university,No,6118.0,5254.0,0.86,,,
+30900,,southwest state university,No,1047.0,938.0,0.9,,,
+18100,,southwestern adventist college,Yes,321.0,318.0,0.99,,,
+22000,,southwestern college,Yes,213.0,155.0,0.73,,,
+32500,,southwestern university,Yes,1244.0,912.0,0.73,,,
+28000,,spalding university,Yes,283.0,201.0,0.71,,,
+,,spelman college,Yes,3713.0,1237.0,0.33,,,
+26300,,spring arbor college,Yes,372.0,362.0,0.97,,,
+35500,,st bonaventure university,Yes,1489.0,1313.0,0.88,,,
+24900,,st john's college,Yes,323.0,278.0,0.86,,,
+40000,,st john fisher college,Yes,1368.0,1064.0,0.78,"Rochester, NY",146.0,"$31,880 "
+29100,,st lawrence university,Yes,2753.0,1820.0,0.66,,,
+42000,,st martin's college,Yes,191.0,165.0,0.86,,,
+31900,,st mary's college of california,Yes,2643.0,1611.0,0.61,,,
+29200,,st mary's college of maryland,No,1340.0,695.0,0.52,,,
+28300,,st mary's university of san antonio,Yes,1243.0,1020.0,0.82,,,
+28500,,st norbert college,Yes,1334.0,1243.0,0.93,,,
+38800,,st paul's college,Yes,651.0,581.0,0.89,,,
+PrivacySuppressed,,st thomas aquinas college,Yes,861.0,609.0,0.71,,,
+25800,,stephens college,Yes,450.0,405.0,0.9,,,
+35900,,stetson university,Yes,1557.0,1227.0,0.79,,,
+25700,,stockton college of new jersey,No,4019.0,1579.0,0.39,,,
+41200,,stonehill college,Yes,3646.0,2300.0,0.63,,,
+32300,,suny at albany,No,13528.0,9198.0,0.68,,,
+17600,,suny at binghamton,No,14463.0,6166.0,0.43,,,
+33400,,suny at buffalo,No,15039.0,9649.0,0.64,,,
+31500,,suny at stony brook,No,12512.0,6969.0,0.56,,,
+33600,,suny college  at brockport,No,7294.0,3564.0,0.49,,,
+66000,,suny college  at oswego,No,8000.0,4556.0,0.57,,,
+34700,,suny college at buffalo,No,5318.0,3515.0,0.66,,,
+30900,,suny college at cortland,No,7888.0,3519.0,0.45,,,
+PrivacySuppressed,,suny college at fredonia,No,4877.0,2798.0,0.57,,,
+79100,,suny college at geneseo,No,8598.0,4562.0,0.53,,,
+36400,,suny college at new paltz,No,8399.0,3609.0,0.43,,,
+40500,,suny college at plattsburgh,No,5549.0,3583.0,0.65,,,
+41900,,suny college at potsdam,No,3150.0,2289.0,0.73,,,
+43300,,suny college at purchase,No,2119.0,1264.0,0.6,,,
+50500,,susquehanna university,Yes,2096.0,1512.0,0.72,,,
+31200,,sweet briar college,Yes,462.0,402.0,0.87,,,
+26900,,syracuse university,Yes,10477.0,7260.0,0.69,"Syracuse, NY",60.0,"$45,022 "
+29000,,tabor college,Yes,257.0,183.0,0.71,,,
+27600,,talladega college,Yes,4414.0,1500.0,0.34,,,
+33600,,taylor university,Yes,1769.0,1092.0,0.62,,,
+PrivacySuppressed,,tennessee wesleyan college,Yes,232.0,182.0,0.78,,,
+39600,,texas a&m univ at college station,No,14474.0,10519.0,0.73,,,
+26700,,texas a&m university at galveston,No,529.0,481.0,0.91,,,
+35600,,texas christian university,Yes,4095.0,3079.0,0.75,"Fort Worth, TX",82.0,"$42,670 "
+28600,,texas lutheran college,Yes,497.0,423.0,0.85,,,
+37800,,texas southern university,No,4345.0,3245.0,0.75,,,
+48200,,texas wesleyan university,Yes,592.0,501.0,0.85,,,
+41800,,the citadel,No,1500.0,1242.0,0.83,,,
+PrivacySuppressed,,thiel college,Yes,1154.0,951.0,0.82,,,
+25600,,tiffin university,Yes,845.0,734.0,0.87,,,
+42100,,transylvania university,Yes,759.0,729.0,0.96,,,
+28200,,trenton state college,No,5042.0,2312.0,0.46,,,
+40600,,tristate university,Yes,1262.0,1102.0,0.87,,,
+67600,,trinity college ct,Yes,3058.0,1798.0,0.59,,,
+36600,,trinity college dc,Yes,247.0,189.0,0.77,,,
+25300,,trinity college vt,Yes,222.0,185.0,0.83,,,
+36400,,trinity university,Yes,2425.0,1818.0,0.75,,,
+31300,,tulane university,Yes,7033.0,5125.0,0.73,"New Orleans, LA",39.0,"$51,010 "
+43200,,tusculum college,Yes,626.0,372.0,0.59,,,
+23400,,tuskegee university,Yes,2267.0,1827.0,0.81,,,
+77200,,union college ky,Yes,484.0,384.0,0.79,,,
+47000,,union college ny,Yes,3495.0,1712.0,0.49,,,
+34300,,univ of wisconsin at oshkosh,No,4800.0,2900.0,0.6,,,
+29500,,university of alabama at birmingham,No,1797.0,1260.0,0.7,,,
+32600,,university of arkansas at fayetteville,No,3235.0,3108.0,0.96,,,
+22500,,university of california at berkeley,No,19873.0,8252.0,0.42,,,
+38700,,university of california at irvine,No,15698.0,10775.0,0.69,,,
+29900,,university of central florida,No,6986.0,2959.0,0.42,"Orlando, FL",176.0,"$22,467 "
+38200,,university of charleston,Yes,682.0,535.0,0.78,,,
+37900,,university of chicago,Yes,6348.0,2999.0,0.47,"Chicago, IL",3.0,"$52,491 "
+38400,,university of cincinnati,No,6855.0,5553.0,0.81,"Cincinnati, OH",135.0,"$26,334 "
+37900,,university of connecticut at storrs,No,9735.0,7187.0,0.74,,,
+45800,,university of dallas,Yes,681.0,588.0,0.86,,,
+18100,,university of dayton,Yes,6361.0,5293.0,0.83,"Dayton, OH",111.0,"$40,940 "
+49900,,university of denver,Yes,2974.0,2001.0,0.67,"Denver, CO",86.0,"$46,362 "
+35700,,university of detroit mercy,Yes,927.0,731.0,0.79,,,
+37200,,university of dubuque,Yes,576.0,558.0,0.97,,,
+39000,,university of evansville,Yes,2096.0,1626.0,0.78,,,
+33200,,university of florida,No,12445.0,8836.0,0.71,"Gainesville, FL",50.0,"$28,666 "
+29900,,university of georgia,No,11220.0,7871.0,0.7,"Athens, GA",56.0,"$29,844 "
+19800,,university of hartford,Yes,5081.0,4040.0,0.8,"West Hartford, CT",188.0,"$37,790 "
+38600,,university of hawaii at manoa,No,3580.0,2603.0,0.73,,,
+29600,,university of illinois  urbana,No,14939.0,11652.0,0.78,,,
+27400,,university of indianapolis,Yes,1487.0,1276.0,0.86,,,
+29400,,university of la verne,Yes,1597.0,969.0,0.61,"La Verne, CA",152.0,"$39,900 "
+37100,,university of louisville,No,4777.0,3057.0,0.64,"Louisville, KY",171.0,"$24,626 "
+26200,,university of maine at farmington,No,1208.0,803.0,0.66,,,
+35700,,university of maine at machias,No,441.0,369.0,0.84,,,
+41900,,university of maine at presque isle,No,461.0,381.0,0.83,,,
+40000,,university of maryland at baltimore county,No,4269.0,2594.0,0.61,,,
+34600,,university of maryland at college park,No,14292.0,10315.0,0.72,,,
+PrivacySuppressed,,university of massachusetts at amherst,No,14438.0,12414.0,0.86,,,
+14300,,university of massachusetts at dartmouth,No,3347.0,2597.0,0.78,,,
+31000,,university of miami,Yes,7122.0,5386.0,0.76,"Coral Gables, FL",44.0,"$47,004 "
+39600,,university of michigan at ann arbor,No,19152.0,12940.0,0.68,,,
+12800,,university of minnesota at duluth,No,4192.0,3126.0,0.75,,,
+42700,,university of minnesota at morris,No,1458.0,874.0,0.6,,,
+29300,,university of minnesota twin cities,No,11054.0,6397.0,0.58,,,
+,,university of missouri at columbia,No,6574.0,4637.0,0.71,,,
+31100,,university of missouri at rolla,No,1877.0,1826.0,0.97,,,
+,,university of missouri at saint louis,No,1618.0,1141.0,0.71,,,
+33500,,university of mobile,Yes,452.0,331.0,0.73,,,
+52000,,university of montevallo,No,1351.0,892.0,0.66,,,
+42700,,university of nebraska at lincoln,No,6277.0,6003.0,0.96,,,
+20900,,university of new england,Yes,1209.0,750.0,0.62,,,
+26900,,university of new hampshire,No,9750.0,7640.0,0.78,"Durham, NH",107.0,"$31,424 "
+,,university of north carolina at asheville,No,1757.0,979.0,0.56,,,
+29000,,university of north carolina at chapel hill,No,14596.0,5985.0,0.41,,,
+37400,,university of north carolina at charlotte,No,5803.0,4441.0,0.77,,,
+48200,,university of north carolina at greensboro,No,5191.0,4134.0,0.8,,,
+48200,,university of north carolina at wilmington,No,6071.0,3856.0,0.64,,,
+53600,,university of north florida,No,1800.0,1253.0,0.7,,,
+22300,,university of north texas,No,4418.0,2737.0,0.62,,,
+18200,,university of northern colorado,No,5530.0,4007.0,0.72,,,
+21300,,university of northern iowa,No,4144.0,3379.0,0.82,,,
+15400,,university of notre dame,Yes,7700.0,3700.0,0.48,"Notre Dame, IN",15.0,"$49,685 "
+21100,,university of pittsburghmain campus,No,8586.0,6383.0,0.74,,,
+18200,,university of portland,Yes,1758.0,1485.0,0.84,,,
+25500,,university of rhode island,No,9643.0,7751.0,0.8,"Kingston, RI",159.0,"$28,852 "
+29700,,university of rochester,Yes,8766.0,5498.0,0.63,"Rochester, NY",32.0,"$50,142 "
+,,university of san diego,Yes,3934.0,2735.0,0.7,"San Diego, CA",86.0,"$46,140 "
+PrivacySuppressed,,university of san francisco,Yes,2306.0,1721.0,0.75,"San Francisco, CA",107.0,"$44,494 "
+107700,,university of sci and arts of oklahoma,No,285.0,280.0,0.98,,,
+,,university of scranton,Yes,4471.0,2942.0,0.66,,,
+33800,,university of south carolina at aiken,No,848.0,560.0,0.66,,,
+,,university of south carolina at columbia,No,7693.0,5815.0,0.76,,,
+68100,,university of south florida,No,7589.0,4676.0,0.62,"Tampa, FL",159.0,"$17,325 "
+23500,,university of southern california,Yes,12229.0,8498.0,0.69,"Los Angeles, CA",23.0,"$52,217 "
+25100,,university of southern colorado,No,1401.0,1239.0,0.88,,,
+22800,,university of southern indiana,No,2379.0,2133.0,0.9,,,
+28100,,university of southern mississippi,No,2850.0,2044.0,0.72,"Hattiesburg, MS",220.0,"$16,094 "
+28000,,university of st thomas mn,Yes,2057.0,1807.0,0.88,,,
+26100,,university of st thomas tx,Yes,374.0,280.0,0.75,,,
+32800,,university of tennessee at knoxville,No,7473.0,5372.0,0.72,,,
+34400,,university of texas at arlington,No,3281.0,2559.0,0.78,,,
+39700,,university of texas at austin,No,14752.0,9572.0,0.65,,,
+37700,,university of texas at san antonio,No,4217.0,3100.0,0.74,,,
+28000,,university of the arts,Yes,974.0,704.0,0.72,,,
+20900,,university of the pacific,Yes,2459.0,1997.0,0.81,"Stockton, CA",111.0,"$44,588 "
+53300,,university of the south,Yes,1445.0,966.0,0.67,,,
+20700,,university of tulsa,Yes,1712.0,1557.0,0.91,"Tulsa, OK",86.0,"$38,796 "
+36600,,university of vermont,No,7663.0,6008.0,0.78,"Burlington, VT",92.0,"$40,364 "
+25700,,university of virginia,No,15849.0,5384.0,0.34,"Charlottesville, VA",24.0,"$45,066 "
+42200,,university of washington,No,12749.0,7025.0,0.55,"Seattle, WA",54.0,"$34,791 "
+32300,,university of west florida,No,1558.0,1254.0,0.8,,,
+48300,,university of wisconsinstout,No,2593.0,1966.0,0.76,,,
+36000,,university of wisconsinsuperior,No,910.0,910.0,1.0,,,
+28000,,university of wisconsinwhitewater,No,4400.0,3719.0,0.85,,,
+33500,,university of wisconsin at green bay,No,2409.0,1939.0,0.8,,,
+PrivacySuppressed,,university of wisconsin at madison,No,14901.0,10932.0,0.73,,,
+23100,,university of wisconsin at milwaukee,No,5244.0,3782.0,0.72,,,
+40800,,university of wyoming,No,2029.0,1516.0,0.75,"Laramie, WY",171.0,"$16,215 "
+PrivacySuppressed,,upper iowa university,Yes,663.0,452.0,0.68,,,
+36800,,ursuline college,Yes,325.0,260.0,0.8,,,
+24800,,valley city state university,No,368.0,344.0,0.93,,,
+18300,,valparaiso university,Yes,2075.0,1727.0,0.83,,,
+20200,,vanderbilt university,Yes,7791.0,4690.0,0.6,"Nashville, TN",15.0,"$45,610 "
+21100,,villanova university,Yes,7759.0,5588.0,0.72,"Villanova, PA",50.0,"$49,280 "
+26800,,virginia commonwealth university,No,4963.0,3497.0,0.7,"Richmond, VA",164.0,"$31,608 "
+132300,,virginia state university,No,2996.0,2440.0,0.81,,,
+54300,,virginia tech,No,15712.0,11719.0,0.75,"Blacksburg, VA",74.0,"$29,371 "
+49000,,virginia union university,Yes,1847.0,1610.0,0.87,,,
+96100,,virginia wesleyan college,Yes,1470.0,900.0,0.61,,,
+61500,,viterbo college,Yes,647.0,518.0,0.8,,,
+59100,,voorhees college,Yes,1465.0,1006.0,0.69,,,
+30500,,wabash college,Yes,800.0,623.0,0.78,,,
+42800,,wagner college,Yes,1416.0,1015.0,0.72,,,
+29500,,wake forest university,Yes,5661.0,2392.0,0.42,"Winston-Salem, NC",27.0,"$49,308 "
+69100,,walsh university,Yes,1092.0,890.0,0.82,,,
+47100,,warren wilson college,Yes,440.0,311.0,0.71,,,
+30700,,wartburg college,Yes,1231.0,1074.0,0.87,,,
+,,washington and jefferson college,Yes,1305.0,1100.0,0.84,,,
+25700,,washington college,Yes,1209.0,942.0,0.78,,,
+,,washington state university,No,6540.0,5839.0,0.89,"Pullman, WA",143.0,"$25,673 "
+29900,,washington university,Yes,7654.0,5259.0,0.69,,,
+31200,,wayne state college,No,1373.0,1373.0,1.0,,,
+42800,,waynesburg college,Yes,1190.0,978.0,0.82,,,
+29000,,webber college,Yes,280.0,143.0,0.51,,,
+28000,,webster university,Yes,665.0,462.0,0.69,,,
+34100,,wells college,Yes,318.0,240.0,0.75,,,
+39700,,wesley college,Yes,980.0,807.0,0.82,,,
+16100,,wesleyan university,Yes,4772.0,1973.0,0.41,,,
+33800,,west chester university of penn,No,6502.0,3539.0,0.54,,,
+50900,,west liberty state college,No,1164.0,1062.0,0.91,,,
+,,west virginia wesleyan college,Yes,1566.0,1400.0,0.89,,,
+29100,,western maryland college,Yes,1205.0,984.0,0.82,,,
+61200,,western michigan university,No,9167.0,7191.0,0.78,"Kalamazoo, MI",194.0,"$25,713 "
+27400,,western new england college,Yes,1650.0,1471.0,0.89,,,
+48800,,western state college of colorado,No,2702.0,1623.0,0.6,,,
+30900,,westfield state college,No,3100.0,2150.0,0.69,,,
+30900,,westminster college mo,Yes,662.0,553.0,0.84,,,
+29600,,westminster college,Yes,996.0,866.0,0.87,,,
+41500,,westminster college of salt lake city,Yes,917.0,720.0,0.79,,,
+54100,,westmont college,No,950.0,713.0,0.75,,,
+,,wheaton college il,Yes,1432.0,920.0,0.64,,,
+44500,,westminster college pa,Yes,1738.0,1373.0,0.79,,,
+23300,,wheeling jesuit college,Yes,903.0,755.0,0.84,,,
+29700,,whittier college,Yes,1681.0,1069.0,0.64,,,
+36200,,whitworth college,Yes,1121.0,926.0,0.83,,,
+,,widener university,Yes,2139.0,1492.0,0.7,"Chester, PA",183.0,"$42,870 "
+32900,,wilkes university,Yes,1631.0,1431.0,0.88,,,
+45800,,willamette university,Yes,1658.0,1327.0,0.8,,,
+,,william jewell college,Yes,663.0,547.0,0.83,,,
+PrivacySuppressed,,william woods university,Yes,469.0,435.0,0.93,,,
+25600,,wilson college,Yes,167.0,130.0,0.78,,,
+42900,,wingate college,Yes,1239.0,1017.0,0.82,,,
+41500,,winona state university,No,3325.0,2047.0,0.62,,,
+PrivacySuppressed,,winthrop university,No,2320.0,1805.0,0.78,,,
+33700,,wisconsin lutheran college,Yes,152.0,128.0,0.84,,,
+51400,,wofford college,Yes,1501.0,935.0,0.62,,,
+33300,,worcester polytechnic institute,Yes,2768.0,2314.0,0.84,"Worcester, MA",60.0,"$46,994 "
+17200,,worcester state college,No,2197.0,1515.0,0.69,,,
+44600,,xavier university,Yes,1959.0,1805.0,0.92,,,
+34600,,xavier university of louisiana,Yes,2097.0,1915.0,0.91,,,
+PrivacySuppressed,,york college of pennsylvania,Yes,2989.0,1855.0,0.62,,,
+47800,,stanford university,,,,0.5568,"Stanford, CA",5.0,"$47,940 "
+43700,,california institute of technology,,,,0.4658,"Pasadena, CA",12.0,"$47,577 "
+,,rice university,,,,,"Houston, TX",15.0,"$43,918 "
+45500,,washington university in st louis,,,,0.5438,"St. Louis, MO",19.0,"$49,770 "
+69000,,university of californiaberkeley,,,,0.0847,"Berkeley, CA",20.0,"$40,191 "
+37900,,university of californialos angeles,,,,0.5563,"Los Angeles, CA",24.0,"$39,518 "
+38500,,tufts university,,,,,"Medford, MA",27.0,"$52,430 "
+17700,,university of michiganann arbor,,,,,"Ann Arbor, MI",27.0,"$43,476 "
+40400,,university of north carolinachapel hill,,,,0.6506,"Chapel Hill, NC",30.0,"$33,916 "
+30900,,boston college,,,,,"Chestnut Hill, MA",31.0,"$51,296 "
+29000,,college of william & mary,,,,,"Williamsburg, VA",32.0,"$41,718 "
+,,university of californiasanta barbara,,,,0.9195,"Santa Barbara, CA",37.0,"$40,704 "
+PrivacySuppressed,,university of californiairvine,,,,,"Irvine, CA",39.0,"$39,458 "
+39500,,university of californiadavis,,,,0.6815,"Davis, CA",44.0,"$40,728 "
+26100,,university of californiasan diego,,,,,"La Jolla, CA",44.0,"$41,387 "
+27400,,university of illinoisurbanachampaign,,,,,"Champaign, IL",44.0,"$31,320 "
+32300,,university of wisconsinmadison,,,,0.634,"Madison, WI",44.0,"$32,738 "
+30300,,pennsylvania state universityuniversity park,,,,,"University Park, PA",50.0,"$32,382 "
+31600,,ohio state universitycolumbus,,,,,"Columbus, OH",54.0,"$29,229 "
+45200,,university of texasaustin,,,,0.4903,"Austin, TX",56.0,"$34,676 "
+43600,,purdue universitywest lafayette,,,,0.6485,"West Lafayette, IN",60.0,"$28,804 "
+47100,,university of connecticut,,,,0.6379,"Storrs, CT",60.0,"$35,858 "
+85900,,university of marylandcollege park,,,,,"College Park, MD",60.0,"$32,045 "
+55400,,yeshiva university,,,,,"New York, NY",66.0,"$40,670 "
+53100,,brigham young universityprovo,,,,0.4678,"Provo, UT",68.0,"$5,300 "
+PrivacySuppressed,,university of pittsburgh,,,,,"Pittsburgh, PA",68.0,"$29,758 "
+48200,,rutgers universitynew brunswick,,,,0.7395,"Piscataway, NJ",70.0,"$30,023 "
+44600,,university of minnesotatwin cities,,,,0.5282,"Minneapolis, MN",71.0,"$22,210 "
+30300,,american university,,,,,"Washington, DC",74.0,"$44,853 "
+25100,,texas a&m universitycollege station,,,,,"College Station, TX",74.0,"$28,768 "
+26300,,university of massachusettsamherst,,,,,"Amherst, MA",74.0,"$30,123 "
+,,miami universityoxford,,,,,"Oxford, OH",79.0,"$31,592 "
+28200,,university of californiasanta cruz,,,,,"Santa Cruz, CA",79.0,"$40,241 "
+29400,,university of iowa,,,,0.6364,"Iowa City, IA",82.0,"$28,413 "
+,,binghamton universitysuny,,,,,"Binghamton, NY",86.0,"$22,164 "
+29700,,indiana universitybloomington,,,,,"Bloomington, IN",86.0,"$34,246 "
+60600,,north carolina state universityraleigh,,,,0,"Raleigh, NC",92.0,"$26,399 "
+16900,,university of coloradoboulder,,,,,"Boulder, CO",92.0,"$35,079 "
+42900,,drexel university,,,,0.7185,"Philadelphia, PA",96.0,"$51,030 "
+43000,,stony brook universitysuny,,,,0.8744,"Stony Brook, NY",96.0,"$26,266 "
+22500,,suny college of environmental science and forestry,,,,0.8767,"Syracuse, NY",99.0,"$17,620 "
+PrivacySuppressed,,university at buffalosuny,,,,1,"Buffalo, NY",99.0,"$26,270 "
+26200,,university of alabama,,,,,"Tuscaloosa, AL",103.0,"$26,950 "
+PrivacySuppressed,,rochester institute of technology,,,,,"Rochester, NY",107.0,"$38,568 "
+42200,,university of missouri,,,,0.6423,"Columbia, MO",111.0,"$25,892 "
+41100,,university of nebraskalincoln,,,,0.7303,"Lincoln, NE",111.0,"$23,148 "
+34300,,temple university,,,,,"Philadelphia, PA",118.0,"$25,994 "
+21500,,university of californiariverside,,,,,"Riverside, CA",118.0,"$40,263 "
+PrivacySuppressed,,university of st thomas,,,,0.931,"St. Paul, MN",118.0,"$39,594 "
+32500,,the catholic university of america,,,,,"Washington, DC",124.0,"$42,536 "
+71100,,depaul university,,,,,"Chicago, IL",124.0,"$37,626 "
+43200,,duquesne university,,,,0.5878,"Pittsburgh, PA",124.0,"$35,062 "
+48400,,howard university,,,,0.8265,"Washington, DC",124.0,"$24,908 "
+37300,,arizona state universitytempe,,,,,"Tempe, AZ",129.0,"$25,458 "
+30700,,new school,,,,0.6921,"New York, NY",129.0,"$45,535 "
+37200,,university of kentucky,,,,0.6502,"Lexington, KY",133.0,"$26,334 "
+41100,,louisiana state universitybaton rouge,,,,0.6478,"Baton Rouge, LA",135.0,"$27,005 "
+37800,,rutgers universitynewark,,,,0.9233,"Newark, NJ",135.0,"$29,480 "
+56600,,oregon state university,,,,0.6783,"Corvallis, OR",143.0,"$28,846 "
+42000,,university at albanysuny,,,,,"Albany, NY",146.0,"$22,244 "
+,,university of texasdallas,,,,,"Richardson, TX",146.0,"$33,654 "
+31100,,immaculata university,,,,,"Immaculata, PA",152.0,"$35,210 "
+,,university of californiamerced,,,,,"Merced, CA",152.0,"$39,944 "
+17400,,university of illinoischicago,,,,,"Chicago, IL",152.0,"$26,526 "
+54000,,university of massachusettslowell,,,,0.626,"Lowell, MA",152.0,"$29,125 "
+15800,,university of alabamabirmingham,,,,,"Birmingham, AL",159.0,"$17,654 "
+PrivacySuppressed,,university of marylandbaltimore county,,,,,"Baltimore, MD",159.0,"$24,492 "
+35000,,biola university,,,,0.6522,"La Mirada, CA",164.0,"$36,696 "
+41800,,maryville university of st louis,,,,0.6948,"St Louis, MO",164.0,"$27,958 "
+44100,,missouri university of science & technology,,,,0.7544,"Rolla, MO",164.0,"$26,152 "
+37700,,st john's university,,,,0.6603,"Queens, NY",164.0,"$39,460 "
+34900,,union university,,,,0.8179,"Jackson, TN",169.0,"$30,420 "
+46400,,university of hawaiimanoa,,,,0.7934,"Honolulu, HI",169.0,"$33,764 "
+PrivacySuppressed,,edgewood college,,,,,"Madison, WI",171.0,"$27,530 "
+39900,,ball state university,,,,0.8827,"Muncie, IN",176.0,"$25,428 "
+14800,,lipscomb university,,,,,"Nashville, TN",176.0,"$29,756 "
+36200,,texas tech university,,,,0.8319,"Lubbock, TX",176.0,"$22,861 "
+30100,,university of new mexico,,,,,"Albuquerque, NM",176.0,"$21,302 "
+36500,,azusa pacific university,,,,0.9661,"Azusa, CA",183.0,"$36,120 "
+42500,,west virginia university,,,,0.8112,"Morgantown, WV",183.0,"$21,432 "
+40600,,robert morris university,,,,0.6891,"Moon Township, PA",188.0,"$28,250 "
+42700,,suffolk university,,,,0.6318,"Boston, MA",188.0,"$35,578 "
+37000,,university of houston,,,,0.9458,"Houston, TX",194.0,"$25,410 "
+39000,,indiana universitypurdue universityindianapolis,,,,0.8991,"Indianapolis, IN",197.0,"$29,791 "
+36200,,lesley university,,,,0.7999,"Cambridge, MA",197.0,"$25,750 "
+34900,,university of alabamahuntsville,,,,0.819,"Huntsville, AL",197.0,"$20,622 "
+47700,,university of coloradodenver,,,,0.7691,"Denver, CO",197.0,"$29,334 "
+36300,,university of nevadareno,,,,0.7961,"Reno, NV",197.0,"$21,052 "
+37900,,california state universityfullerton,,,,0.8508,"Fullerton, CA",202.0,"$17,596 "
+31500,,central michigan university,,,,0.6488,"Mount Pleasant, MI",202.0,"$23,670 "
+27300,,university of alaskafairbanks,,,,0.7242,"Fairbanks, AK",202.0,"$22,469 "
+27300,,university of north carolinacharlotte,,,,0.7242,"Charlotte, NC",202.0,"$20,193 "
+PrivacySuppressed,,university of south dakota,,,,,"Vermillion, SD",202.0,"$11,688 "
+PrivacySuppressed,,old dominion university,,,,,"Norfolk, VA",210.0,"$27,028 "
+17100,,university of missourikansas city,,,,,"Kansas City, MO",210.0,"$22,714 "
+37100,,ashland university,,,,,"Ashland, OH",214.0,"$20,392 "
+40700,,dallas baptist university,,,,0.5932,"Dallas, TX",214.0,"$26,180 "
+43300,,nova southeastern university,,,,0.6138,"Ft. Lauderdale, FL",214.0,"$27,660 "
+49900,,southern illinois universitycarbondale,,,,0.6829,"Carbondale, IL",214.0,"$27,130 "
+24700,,benedictine university,,,,,"Lisle, IL",220.0,"$32,170 "
+,,california state universityfresno,,,,,"Fresno, CA",220.0,"$17,209 "
+27100,,gardnerwebb university,,,,,"Boiling Springs, NC",220.0,"$29,850 "
+13600,,shenandoah university,,,,,"Winchester, VA",220.0,"$31,322 "
+78400,,university of massachusettsboston,,,,0.1771,"Boston, MA",220.0,"$32,023 "
+33600,,university of massachusettsdartmouth,,,,0.497,"North Dartmouth, MA",220.0,"$19,270 "
+PrivacySuppressed,,university of missourist louis,,,,,"St. Louis, MO",220.0,"$26,277 "
+18500,,university of north carolinagreensboro,,,,,"Greensboro, NC",220.0,"$21,595 "
