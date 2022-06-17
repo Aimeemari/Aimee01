@@ -3,4 +3,5 @@ This project focused on ETL technique. Data from three different sources were cl
 
  ## The Analysis
  The analysis took into consideration the acceptance of the schools and the highest starting salary of the graduates to make its rating.
-![Capturethis](https://user-images.githubusercontent.com/90354225/174235538-ca366bde-fa56-4878-9a6a-35a5ac4891fe.JPG)
+
+![Capturethis](https://user-images.githubusercontent.com/90354225/174236273-b07cd6cc-7d96-4519-807d-327975417a1b.JPG)
